@@ -1,0 +1,7 @@
+2021-12-01 09:48:55 ERROR AccountDaoImpl:144 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-01 09:49:01 ERROR AccountDaoImpl:144 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-01 09:49:08 ERROR AccountDaoImpl:144 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-01 09:49:19 ERROR AccountDaoImpl:144 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-01 09:49:26 ERROR ClientDaoImpl:79 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-01 09:49:50 ERROR ClientDaoImpl:105 - org.postgresql.util.PSQLException: The connection attempt failed.
+2021-12-01 09:50:39 ERROR ClientDaoImpl:105 - org.postgresql.util.PSQLException: The connection attempt failed.
