@@ -27,7 +27,6 @@ public class Dispatcher {
                         });
 
                         path("{account_id}", () -> {
-                            //get(AccountController::filterAccountsByBalance);
                             get(AccountController::getClientAccount);
                             delete(AccountController::deleteAccount);
                             put(AccountController::updateAccount);
